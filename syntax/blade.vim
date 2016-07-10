@@ -1,0 +1,1 @@
+/home/reed/development/common/builder/blade/vim/syntax/blade.vim
