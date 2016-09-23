@@ -3,6 +3,6 @@
 " Author: Chen Feng <phongchen@tencent.com>
 
 augroup filetype
-    autocmd! BufRead,BufNewFile BUILD setfiletype blade
+    autocmd BufRead,BufNewFile BUILD setfiletype blade
 augroup end
 
