@@ -1,19 +1,18 @@
-# vim-typhoon-blade
+# vim-typhoon-blade #
 
 ---
 
-Taken from [vim-typhoon-blade](https://github.com/zhangyafeikimi/vim-typhoon-blade).
+Separate vim syntax plugin [vim-typhoon-blade](https://github.com/hiberabyss/vim-typhoon-blade)
+could be installed via vundle or vim-plug.
 
-Vim syntax plugin for [typhoon-blade](https://github.com/chen3feng/typhoon-blade).
+## Installation ##
 
-## Installation
-
-### vundle
+### vundle ###
 
 Add to vimrc file:
 
     Bundle 'zhangyafeikimi/vim-typhoon-blade'
 
-### Manual installation
+### Manual installation ###
 
 Copy all files to vim plugin directory($HOME/.vim, vimfiles, $VIMRUNTIME, ...).
